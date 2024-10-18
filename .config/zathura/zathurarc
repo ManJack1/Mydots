@@ -1,0 +1,40 @@
+set synctex true
+set synctex-editor-command "nvr --remote-silent %f -c %l"
+
+set notification-error-bg       "rgba(46, 52, 64, 1)"       # "#2E3440"
+set notification-error-fg       "rgba(191, 97, 106, 1)"     # "#BF616A"
+set notification-warning-bg     "rgba(46, 52, 64, 1)"       # "#2E3440"
+set notification-warning-fg     "rgba(208, 135, 112, 1)"    # "#D08770"
+set notification-bg             "rgba(46, 52, 64, 1)"       # "#2E3440"
+set notification-fg             "rgba(216, 222, 233, 1)"    # "#D8DEE9"
+
+set completion-bg               "rgba(46, 52, 64, 1)"       # "#2E3440"
+set completion-fg               "rgba(216, 222, 233, 1)"    # "#D8DEE9"
+set completion-group-bg         "rgba(59, 66, 82, 1)"       # "#3B4252"
+set completion-group-fg         "rgba(216, 222, 233, 1)"    # "#D8DEE9"
+set completion-highlight-bg     "rgba(136, 192, 208, 1)"    # "#88C0D0"
+set completion-highlight-fg     "rgba(59, 66, 82, 1)"       # "#3B4252"
+
+set index-bg                    "rgba(46, 52, 64, 1)"       # "#2E3440"
+set index-fg                    "rgba(143, 188, 187, 1)"    # "#8FBCBB"
+set index-active-bg             "rgba(143, 188, 187, 1)"    # "#8FBCBB"
+set index-active-fg             "rgba(46, 52, 64, 1)"       # "#2E3440"
+
+set inputbar-bg                 "rgba(46, 52, 64, 1)"       # "#2E3440"
+set inputbar-fg                 "rgba(229, 233, 240, 1)"    # "#E5E9F0"
+
+set statusbar-bg                "rgba(46, 52, 64, 1)"       # "#2E3440"
+set statusbar-fg                "rgba(229, 233, 240, 1)"    # "#E5E9F0"
+
+set highlight-color             "rgba(208, 135, 112, 0.6)"    # "#D08770"
+set highlight-active-color      "rgba(191, 97, 106, 0.6)"     # "#BF616A"
+
+set default-bg                  "rgba(46, 52, 64, 1)"       # "#2E3440"
+set default-fg                  "rgba(216, 222, 233, 1)"    # "#D8DEE9"
+set render-loading              "true"
+set render-loading-bg           "rgba(46, 52, 64, 1)"       # "#2E3440"
+set render-loading-fg           "rgba(67, 76, 94, 1)"       # "#434C5E"
+
+set recolor-lightcolor          "rgba(46, 52, 64, 1)"       # "#2E3440"
+set recolor-darkcolor           "rgba(236, 239, 244, 1)"    # "#ECEFF4"
+set recolor                     "true"
