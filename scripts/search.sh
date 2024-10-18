@@ -7,4 +7,5 @@ query=$(rofi -dmenu -p "   Search:")
 if [ -n "$query" ]; then
   # 使用浏览器打开 Google 搜索
   xdg-open "https://www.google.com/search?q=$(echo $query | sed 's/ /+/g')"
+
 fi
